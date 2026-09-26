@@ -4,8 +4,19 @@ body {
 }
 
 .header,
-.recipe-list {
+.recipe-list,
+.center {
     text-align: center;
+    list-style-position: inside;
+}
+
+.small-img {
+    width: 350px;
+    height: auto;
+}
+
+.margin {
+    margin: 24px;
 }
 
 .no-dots {
