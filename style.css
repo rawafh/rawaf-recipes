@@ -1,0 +1,13 @@
+body {
+    color: white;
+    background-color: #121212;
+}
+
+.header,
+.recipe-list {
+    text-align: center;
+}
+
+.no-dots {
+    list-style-type: none;
+}
